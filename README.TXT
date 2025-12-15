@@ -1,10 +1,1 @@
-Project: network-v1
-Authors: Michael Kölling and David J. Barnes
-
-This project is part of the material for chapter 8 of the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-
-It implements a first version of a news feed for a social network.
+1. Yes the message is shown in the NewsFeed because it references the same object.
